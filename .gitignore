@@ -1,0 +1,13 @@
+# Ignore encrypted seed (sensitive)
+encrypted_seed.txt
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment config
+.env
+
+# IDE configs
+.vscode/
+.idea/
